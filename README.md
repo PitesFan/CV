@@ -31,3 +31,13 @@
 ### 3. Gaming
 
 <img src="gaming.jpg" alt="reading" width="350px">
+
+#### **Favorite games**
+
+#### 1. Minecraft
+
+#### 2. Farming simulator 22
+
+#### 3. Supermarket simulator
+
+#### 4. Euro Truck simulator 2
