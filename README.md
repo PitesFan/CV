@@ -17,3 +17,17 @@
 ### 2. UTM College
 
 ### Expected Graduation: June 2028
+
+## **Hobbies**
+
+### 1. Reading
+
+![Reading image](reading.jpg)
+
+### 2. Coding
+
+![Reading image](coding.jpg)
+
+### 3. Gaming
+
+![Reading image](gaming.jpg)
