@@ -52,8 +52,8 @@
 
 ### **Useful websites**
 
-### 1. A list of websites where you can watch everything for free [Free movies](https://fmhy.net/video#streaming-sites).
+### 1. A list of websites where you can watch everything for free [Video streaming](https://fmhy.net/video#streaming-sites).
 
-### 2. High quality images [Images](https://unsplash.com/).
+### 2. High quality images [Unsplash.com](https://unsplash.com/).
 
-### 3. Install all software you need at once [Images](https://ninite.com/).
+### 3. Install all software you need at once [Ninite.com](https://ninite.com/).
