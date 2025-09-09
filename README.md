@@ -10,6 +10,8 @@
 
 ### **Age:** 17
 
+---
+
 ## **Education**
 
 ### 1. Middle school
