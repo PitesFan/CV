@@ -22,12 +22,12 @@
 
 ### 1. Reading
 
-![Reading image](reading.jpg)
+<img src="reading.jpg" alt="reading" width="350px">
 
 ### 2. Coding
 
-![Reading image](coding.jpg)
+<img src="coding.jpg" alt="reading" width="350px">
 
 ### 3. Gaming
 
-![Reading image](gaming.jpg)
+<img src="gaming.jpg" alt="reading" width="350px">
