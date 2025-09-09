@@ -1,5 +1,7 @@
 # CV
 
+---
+
 ## **General info**
 
 ### **First name:** Valeria
@@ -18,6 +20,8 @@
 
 ### Expected Graduation: June 2028
 
+---
+
 ## **Hobbies**
 
 ### 1. Reading
@@ -31,6 +35,8 @@
 ### 3. Gaming
 
 <img src="gaming.jpg" alt="reading" width="350px">
+
+---
 
 #### **Favorite games**
 
