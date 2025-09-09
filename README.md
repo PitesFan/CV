@@ -50,6 +50,8 @@
 
 #### 4. Euro Truck simulator 2
 
+---
+
 ### **Useful websites**
 
 ### 1. A list of websites where you can watch everything for free [Video streaming](https://fmhy.net/video#streaming-sites).
