@@ -38,6 +38,8 @@
 
 <img src="gaming.jpg" alt="reading" width="350px">
 
+### 4. Others ...
+
 ---
 
 #### **Favorite games**
