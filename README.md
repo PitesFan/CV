@@ -28,15 +28,15 @@
 
 ### 1. Reading
 
-<img src="reading.jpg" alt="reading" width="350px">
+<img src="reading.jpg" alt="reading" width="400px">
 
 ### 2. Coding
 
-<img src="coding.jpg" alt="reading" width="350px">
+<img src="coding.jpg" alt="reading" width="400px">
 
 ### 3. Gaming
 
-<img src="gaming.jpg" alt="reading" width="350px">
+<img src="gaming.jpg" alt="reading" width="400px">
 
 ---
 
