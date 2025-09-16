@@ -38,7 +38,7 @@
 
 <img src="gaming.jpg" alt="reading" width="350px">
 
-### 4. Others
+### 4. Others ...
 
 ---
 
